@@ -1,0 +1,41 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (.\output\libsrtp-i386-win32-vc6-debug\) contains files shared from another project (libsrtp_.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  rdbx.c
+  rdb.c
+  stat.c
+  key.c
+  crypto_kernel.c
+  alloc.c
+D:\Work\libSRTP\WolfSSL_Sample_AES_GCM\WolfSSL_Stub_Sample_AES_GCM\srtp\crypto\kernel\alloc.c(78,17): warning C4013: 'KN_CALLOC' undefined; assuming extern returning int
+D:\Work\libSRTP\WolfSSL_Sample_AES_GCM\WolfSSL_Stub_Sample_AES_GCM\srtp\crypto\kernel\alloc.c(78,26): warning C4047: '=': 'void *' differs in levels of indirection from 'int'
+D:\Work\libSRTP\WolfSSL_Sample_AES_GCM\WolfSSL_Stub_Sample_AES_GCM\srtp\crypto\kernel\alloc.c(94,12): warning C4013: 'KN_FREE' undefined; assuming extern returning int
+  null_auth.c
+  hmac.c
+  Warning: For timing resistance / side-channel attack prevention consider using harden options
+  auth.c
+  null_cipher.c
+  cipher.c
+D:\Work\libSRTP\WolfSSL_Sample_AES_GCM\WolfSSL_Stub_Sample_AES_GCM\srtp\crypto\cipher\cipher.c(157,51): warning C4090: 'function': different 'const' qualifiers
+  aes.c
+  srtp_err.c
+  srtp.c
+  Warning: For timing resistance / side-channel attack prevention consider using harden options
+  ekt.c
+  datatypes.c
+  Warning: For timing resistance / side-channel attack prevention consider using harden options
+D:\Work\libSRTP\WolfSSL_Sample_AES_GCM\WolfSSL_Stub_Sample_AES_GCM\srtp\crypto\math\datatypes.c(457,20): warning C4013: 'OPENSSL_cleanse' undefined; assuming extern returning int
+  err.c
+  sha1.c
+D:\Work\libSRTP\WolfSSL_Sample_AES_GCM\WolfSSL_Stub_Sample_AES_GCM\srtp\crypto\hash\sha1.c(476,1): warning C4206: nonstandard extension used: translation unit is empty
+  aes_icm_ossl.c
+  Warning: For timing resistance / side-channel attack prevention consider using harden options
+  aes_icm.c
+D:\Work\libSRTP\WolfSSL_Sample_AES_GCM\WolfSSL_Stub_Sample_AES_GCM\srtp\crypto\cipher\aes_icm.c(532,1): warning C4206: nonstandard extension used: translation unit is empty
+  Generating Code...
+  Compiling...
+  aes_gcm_ossl.c
+  Warning: For timing resistance / side-channel attack prevention consider using harden options
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1469,5): warning MSB8012: TargetPath(D:\Work\libSRTP\WolfSSL_Sample_AES_GCM\WolfSSL_Stub_Sample_AES_GCM\srtp\build\.\output\libsrtp-i386-win32-vc6-debug\libsrtp.lib) does not match the Library's OutputFile property value (D:\Work\libSRTP\WolfSSL_Sample_AES_GCM\WolfSSL_Stub_Sample_AES_GCM\lib\libsrtp-i386-win32-vc6-debug.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1471,5): warning MSB8012: TargetName(libsrtp) does not match the Library's OutputFile property value (libsrtp-i386-win32-vc6-debug). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  libsrtp_.vcxproj -> D:\Work\libSRTP\WolfSSL_Sample_AES_GCM\WolfSSL_Stub_Sample_AES_GCM\srtp\build\.\output\libsrtp-i386-win32-vc6-debug\libsrtp.lib

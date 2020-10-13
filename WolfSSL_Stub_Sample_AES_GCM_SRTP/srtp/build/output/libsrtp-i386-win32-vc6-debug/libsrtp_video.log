@@ -1,0 +1,36 @@
+﻿  rdbx.c
+  rdb.c
+  stat.c
+  key.c
+  crypto_kernel.c
+  alloc.c
+  null_auth.c
+  hmac.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  auth.c
+  null_cipher.c
+  cipher.c
+d:\branch\gitrepos\wolfssl_stub_libsrtp\wolfssl_stub_sample_aes_gcm_srtp\srtp\crypto\cipher\cipher.c(157): warning C4090: 'function' : different 'const' qualifiers
+  aes.c
+  srtp_err.c
+  srtp.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  ekt.c
+  datatypes.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  err.c
+  sha1.c
+d:\branch\gitrepos\wolfssl_stub_libsrtp\wolfssl_stub_sample_aes_gcm_srtp\srtp\crypto\hash\sha1.c(476): warning C4206: nonstandard extension used : translation unit is empty
+  aes_icm_ossl.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  aes_icm.c
+d:\branch\gitrepos\wolfssl_stub_libsrtp\wolfssl_stub_sample_aes_gcm_srtp\srtp\crypto\cipher\aes_icm.c(532): warning C4206: nonstandard extension used : translation unit is empty
+  Generating Code...
+  Compiling...
+  aes_gcm_ossl.c
+CL : warning : For timing resistance / side-channel attack prevention consider using harden options
+  Generating Code...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1151,5): warning MSB8012: TargetPath(D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\srtp\build\.\output\libsrtp-i386-win32-vc6-debug\libsrtp_video.lib) does not match the Library's OutputFile property value (D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\lib\libsrtp-i386-win32-vc6-debug.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1153,5): warning MSB8012: TargetName(libsrtp_video) does not match the Library's OutputFile property value (libsrtp-i386-win32-vc6-debug). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+err.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  libsrtp_video.vcxproj -> D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\srtp\build\.\output\libsrtp-i386-win32-vc6-debug\libsrtp_video.lib

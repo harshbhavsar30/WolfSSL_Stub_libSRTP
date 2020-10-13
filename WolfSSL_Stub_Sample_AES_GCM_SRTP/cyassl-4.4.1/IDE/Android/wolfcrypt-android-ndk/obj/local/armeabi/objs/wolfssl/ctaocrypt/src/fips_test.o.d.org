@@ -1,0 +1,269 @@
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/obj/local/armeabi/objs/wolfssl/ctaocrypt/src/fips_test.o: \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../..//ctaocrypt/src/fips_test.c \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/settings.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/visibility.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../port/inc/kn_ctaocryptsrc_port.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/types.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/wc_port.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/wc_port.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/settings.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/visibility.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../port/inc/kn_wcport_port.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/pthread.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/time.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/cdefs.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/cdefs_elf.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/android/api-level.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/time.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/types.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/stdint.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/_types.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/machine/_types.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/_wchar_limits.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/linux/posix_types.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/linux/stddef.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/linux/compiler.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/asm/posix_types.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/asm/types.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/linux/types.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/machine/kernel.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/sysmacros.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/linux/time.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/asm/siginfo.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/asm-generic/siginfo.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/signal.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/limits.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/limits.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/linux/limits.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/machine/internal_types.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/machine/limits.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/syslimits.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/asm/page.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/string.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/malloc.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/asm/signal.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/asm-generic/signal.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/asm/sigcontext.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/ucontext.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/user.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sched.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/unistd.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/select.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/sysconf.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/linux/capability.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/pathconf.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/stdio.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/dirent.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/stat.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/linux/stat.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/endian.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/endian.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/machine/endian.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/types.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/memory.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/stdlib.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/alloca.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/strings.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/memory.h \
+ C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/ctype.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/settings_comp.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/fips_test.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/aes.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/des3.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/sha.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/sha256.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/sha512.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/rsa.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/integer.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/integer.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/tfm.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/random.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/random.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/wolfmath.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/hmac.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/md5.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/md5.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/error-crypt.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/error-crypt.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/coding.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/coding.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/certs_test.h \
+ E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/certs_test.h
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/settings.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/visibility.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../port/inc/kn_ctaocryptsrc_port.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/types.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/wc_port.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/wc_port.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/settings.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/visibility.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../port/inc/kn_wcport_port.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/pthread.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/time.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/cdefs.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/cdefs_elf.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/android/api-level.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/time.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/types.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/stdint.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/_types.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/machine/_types.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/_wchar_limits.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/linux/posix_types.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/linux/stddef.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/linux/compiler.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/asm/posix_types.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/asm/types.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/linux/types.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/machine/kernel.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/sysmacros.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/linux/time.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/asm/siginfo.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/asm-generic/siginfo.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/signal.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/limits.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/limits.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/linux/limits.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/machine/internal_types.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/machine/limits.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/syslimits.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/asm/page.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/string.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/malloc.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/asm/signal.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/asm-generic/signal.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/asm/sigcontext.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/ucontext.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/user.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sched.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/unistd.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/select.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/sysconf.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/linux/capability.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/pathconf.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/stdio.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/dirent.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/stat.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/linux/stat.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/endian.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/sys/endian.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/machine/endian.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/types.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/memory.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/stdlib.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/alloca.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/strings.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/memory.h:
+
+C:/Users/ksandeep/Desktop/android-ndk-r10e-windows-x86_64/android-ndk-r10e/platforms/android-19/arch-arm/usr/include/ctype.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/settings_comp.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/fips_test.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/aes.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/des3.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/sha.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/sha256.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/sha512.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/rsa.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/integer.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/integer.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/tfm.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/random.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/random.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/wolfmath.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/hmac.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/md5.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/md5.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/error-crypt.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/error-crypt.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/ctaocrypt/coding.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/wolfcrypt/coding.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../cyassl/certs_test.h:
+
+E:/9_0_XX/CYASSL_3.15.3_CHANGES/CYASSL315_TAG/Product/Insta_Poc_Client/msf/cyassl-3.15.3/IDE/Android/wolfcrypt-android-ndk/jni/../../../../wolfssl/certs_test.h:

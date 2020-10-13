@@ -1,0 +1,36 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (WolfSSL_Stub_Sample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main_srtp.cpp
+  Warning: For timing resistance / side-channel attack prevention consider using harden options
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,29): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,29): warning C4309: 'initializing': truncation of constant value
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,41): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,41): warning C4309: 'initializing': truncation of constant value
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,47): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,47): warning C4309: 'initializing': truncation of constant value
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,71): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,71): warning C4309: 'initializing': truncation of constant value
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,77): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,77): warning C4309: 'initializing': truncation of constant value
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,83): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,83): warning C4309: 'initializing': truncation of constant value
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,89): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,89): warning C4309: 'initializing': truncation of constant value
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,95): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,95): warning C4309: 'initializing': truncation of constant value
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,107): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,107): warning C4309: 'initializing': truncation of constant value
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,119): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,119): warning C4309: 'initializing': truncation of constant value
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,131): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,131): warning C4309: 'initializing': truncation of constant value
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,149): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,149): warning C4309: 'initializing': truncation of constant value
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,155): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,155): warning C4309: 'initializing': truncation of constant value
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,185): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(134,185): warning C4309: 'initializing': truncation of constant value
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(204,19): warning C4101: 'srtp_info': unreferenced local variable
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(212): warning C4715: 'srtp_lib_init': not all control paths return a value
+D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\WolfSSL_Stub_Sample\Main_srtp.cpp(315): warning C4715: 'srtp_start': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  WolfSSL_Stub_Sample.vcxproj -> D:\Branch\GitRepos\WolfSSL_Stub_libSRTP\WolfSSL_Stub_Sample_AES_GCM_SRTP\Debug\WolfSSL_Stub_Sample_SRTP.exe
